@@ -1,0 +1,7 @@
+breed,milk_mean,milk_std,lact_mean,lact_std,weight_mean,weight_std,disease_mean,disease_std
+Gir,5.0,0.3,326,11,315,40,3.6,2.0
+H_F,30.0,5.0,10.0,1.2,630,50,2.8,0.9
+Murrah,10.0,3.0,10.0,1.5,475,25,4.0,0.6
+Jersey,17.5,3.0,10.0,1.2,425,25,3.0,0.8
+nili_ravi,7.5,2.5,9.0,1.7,560,60,3.8,0.7
+

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.envrc
+.DS_Store
+static/results/
+uploads/
+feedback_log.csv
+crossbreed_log.csv
+best_model.pth
+*.sqlite3
